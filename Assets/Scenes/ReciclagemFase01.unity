@@ -416,7 +416,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7609177052230196633, guid: 27c9f1c791c37294187ec9f92df988bc, type: 3}
       propertyPath: substituirObjetoAoParear
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7609177052230196633, guid: 27c9f1c791c37294187ec9f92df988bc, type: 3}
       propertyPath: niveis.Array.data[0].repeticoes

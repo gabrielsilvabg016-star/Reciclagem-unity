@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "TemplateMaisLudus-main.sln"
+    "dotnet.defaultSolution": "Reciclagem-unity.sln"
 }
